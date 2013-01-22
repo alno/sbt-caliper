@@ -2,6 +2,8 @@
 
 [SBT](http://scala-sbt.org/) plugin to support [Caliper](http://code.google.com/p/caliper/) benchmark execution. Uses test sources for benchmarking.
 
+[![Build Status](https://secure.travis-ci.org/alno/sbt-caliper.png?branch=master)](http://travis-ci.org/alno/sbt-caliper)
+
 ## Usage
 
 Add to plugins.sbt file:
